@@ -1,5 +1,5 @@
 {
-  "name": "import-gtm-lookup-table",
+  "name": "iglut",
   "version": "1.0.0",
   "description": "A program to create look up tables in Google Tag Manager.",
   "main": "index.js",
@@ -8,21 +8,25 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/keithws/import-gtm-lookup-table.git"
+    "url": "git+https://github.com/keithws/iglut.git"
   },
   "keywords": [
     "import",
+    "gtm",
     "google",
     "tag",
     "manager",
     "lookup",
     "table",
-    "csv"
+    "csv",
+    "tsv",
+    "xls",
+    "excel"
   ],
   "author": "Keith W. Shaw <keith.w.shaw@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/keithws/import-gtm-lookup-table/issues"
+    "url": "https://github.com/keithws/iglut/issues"
   },
-  "homepage": "https://github.com/keithws/import-gtm-lookup-table#readme"
+  "homepage": "https://github.com/keithws/iglut#readme"
 }
