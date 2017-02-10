@@ -1,0 +1,28 @@
+{
+  "name": "import-gtm-lookup-table",
+  "version": "1.0.0",
+  "description": "A program to create look up tables in Google Tag Manager.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keithws/import-gtm-lookup-table.git"
+  },
+  "keywords": [
+    "import",
+    "google",
+    "tag",
+    "manager",
+    "lookup",
+    "table",
+    "csv"
+  ],
+  "author": "Keith W. Shaw <keith.w.shaw@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/keithws/import-gtm-lookup-table/issues"
+  },
+  "homepage": "https://github.com/keithws/import-gtm-lookup-table#readme"
+}
